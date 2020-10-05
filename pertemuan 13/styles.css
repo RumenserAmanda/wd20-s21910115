@@ -1,4 +1,4 @@
-img.image {
+img.smile {
     display: block;
     background-color: lightblue;
     padding: 20px;
@@ -8,23 +8,23 @@ img.image {
     margin-right: 40px;
 }
 
-img.img {
+img.happy {
     display: block;
     background-color: lightblue;
     padding: 20px;
     border: 10px solid red;
     margin-top: 0px;
-    margin-left: 320px;
+    margin-left: 200px;
     margin-right: 40px
 }
 
-img.im {
+img.laugh {
     display: block;
     background-color: lightblue;
     padding: 20px;
     border: 10px solid red;
     margin-top: 0px;
-    margin-left: 620px;
+    margin-left: 378px;
     margin-right: 40px;
 
 }
