@@ -1,0 +1,27 @@
+#px{
+    /*satuan unit px memiliki perhitungan 16px= 1 em, "Px" juga tidak berubah satuan defaultnya kecuali jika di zoom */
+    font-size: 20px;
+    color: royalblue;
+}
+#px2{
+    font-size: 30px;
+    color: royalblue;
+}
+#em{
+    /*satuan unit em bersifat dinamis dan juga berpengaruh pada inheritnya jadi ada akumulasi antara tag di bawahnya pada html*/
+    font-size: 2em;
+    color: rebeccapurple;
+}
+#em2{
+    font-size: 2.5em;
+    color: rebeccapurple;
+}
+#rem{
+    /*rem bersifat dinamis tetapi tidak di inherit (diturunkan)*/
+    font-size: 1rem;
+    color: green;
+}
+#rem2{
+    font-size: 1.3125rem;
+    color: green;
+}
